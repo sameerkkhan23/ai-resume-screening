@@ -2,5 +2,5 @@ streamlit
 scikit-learn
 nltk
 pdfplumber
+python-docx
 docx2txt
-pandas
